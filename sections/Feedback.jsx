@@ -79,11 +79,12 @@ const Feedback = () => (
                     <p>Ride safe</p>
                 </div>
 
-        <a href="#Getstarted">
+        
+        {/* <a href="#Getstarted">
           <div>
           <button className='w-full my-5 py-2 bg-teal-500 shadow-lg shadow-teal-500/50 hover:shadow-teal-500/40 text-white font-semibold rounded-lg'>FIND FARE</button>
           </div>
-        </a>
+        </a> */}
                 {/* <button className='w-full my-5 py-2 bg-teal-500 shadow-lg shadow-teal-500/50 hover:shadow-teal-500/40 text-white font-semibold rounded-lg'>FIND FARE</button> */}
                 {/* <button className='w-full my-5 py-2 bg-teal-500 shadow-lg shadow-teal-500/50 hover:shadow-teal-500/40 text-white font-semibold rounded-lg'>DISTANCE :</button> */}
                 {/* <button className='w-full my-5 py-2 bg-teal-500 shadow-lg shadow-teal-500/50 hover:shadow-teal-500/40 text-white font-semibold rounded-lg'>TIME TO REACH :</button> */}
