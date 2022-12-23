@@ -3,7 +3,9 @@ import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World }
 
 
 
-const Page = () => (
+function Page() {
+  return(
+    <>
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
 
@@ -30,6 +32,8 @@ const Page = () => (
     <Footer />
     <GetStarted />
   </div>
-);
+  </>
+  )
+}
 
 export default Page;
